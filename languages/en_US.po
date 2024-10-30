@@ -1,0 +1,418 @@
+# Copyright (C) 2018
+# This file is distributed under the same license as the  package.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: https://www.buddyboss.com/contact/\n"
+"POT-Creation-Date: 2018-05-29 19:32:49+00:00\n"
+"PO-Revision-Date: 2018-MO-DA HO:MI+ZONE\n"
+"Last-Translator: BuddyBoss <support@buddyboss.com>\n"
+"Language-Team: BuddyBoss <support@buddyboss.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: grunt-wp-i18n 0.5.4\n"
+"X-Poedit-KeywordsList: __;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;"
+"_nx_noop:1,2,3c;esc_attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Country: United States\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-Bookmarks: \n"
+"X-Textdomain-Support: yes\n"
+
+#: bin/output/bp-gdpr/includes/ActivityExport.php:23
+#: includes/ActivityExport.php:23
+msgid "Activities"
+msgstr ""
+
+#: bin/output/bp-gdpr/includes/ActivityExport.php:42
+#: includes/ActivityExport.php:42
+msgid "Activities & Activity Comments"
+msgstr ""
+
+#: bin/output/bp-gdpr/includes/ActivityExport.php:45
+#: includes/ActivityExport.php:45
+msgid "Profile Update"
+msgstr ""
+
+#: bin/output/bp-gdpr/includes/ActivityExport.php:48
+#: includes/ActivityExport.php:48
+msgid "Group Update"
+msgstr ""
+
+#: bin/output/bp-gdpr/includes/ActivityExport.php:51
+#: includes/ActivityExport.php:51
+msgid "Comment"
+msgstr ""
+
+#: bin/output/bp-gdpr/includes/ActivityExport.php:60
+#: includes/ActivityExport.php:60
+msgid "Activity Action"
+msgstr ""
+
+#: bin/output/bp-gdpr/includes/ActivityExport.php:61
+#: includes/ActivityExport.php:61
+msgid "Activity Content"
+msgstr ""
+
+#: bin/output/bp-gdpr/includes/ActivityExport.php:62
+#: bin/output/bp-gdpr/includes/GroupExport.php:81
+#: bin/output/bp-gdpr/includes/MessageExport.php:70
+#: includes/ActivityExport.php:62 includes/GroupExport.php:81
+#: includes/MessageExport.php:70
+msgid "Created Date (GMT)"
+msgstr ""
+
+#: bin/output/bp-gdpr/includes/ActivityExport.php:63
+#: includes/ActivityExport.php:63
+msgid "Activity Type"
+msgstr ""
+
+#: bin/output/bp-gdpr/includes/ActivityExport.php:64
+#: includes/ActivityExport.php:64
+msgid "Activity URL"
+msgstr ""
+
+#: bin/output/bp-gdpr/includes/Admin.php:162
+#: bin/output/bp-gdpr/includes/Admin.php:163 includes/Admin.php:162
+#: includes/Admin.php:163
+msgid "BuddyPress GDPR"
+msgstr ""
+
+#: bin/output/bp-gdpr/includes/Admin.php:178 includes/Admin.php:178
+msgid "Settings updated."
+msgstr ""
+
+#: bin/output/bp-gdpr/includes/Admin.php:187 includes/Admin.php:187
+msgid "Save Changes"
+msgstr ""
+
+#: bin/output/bp-gdpr/includes/Admin.php:201 includes/Admin.php:201
+msgid "General Settings"
+msgstr ""
+
+#: bin/output/bp-gdpr/includes/Admin.php:206 includes/Admin.php:206
+msgid "Export Page Title"
+msgstr ""
+
+#: bin/output/bp-gdpr/includes/Admin.php:210 includes/Admin.php:210
+msgid "Export Page Content"
+msgstr ""
+
+#: bin/output/bp-gdpr/includes/Admin.php:214 includes/Admin.php:214
+msgid "Export Page Button Text"
+msgstr ""
+
+#: bin/output/bp-gdpr/includes/FriendshipExport.php:24
+#: includes/FriendshipExport.php:24
+msgid "Friendship"
+msgstr ""
+
+#: bin/output/bp-gdpr/includes/FriendshipExport.php:44
+#: includes/FriendshipExport.php:44
+msgid "Friends"
+msgstr ""
+
+#: bin/output/bp-gdpr/includes/FriendshipExport.php:57
+#: includes/FriendshipExport.php:57
+msgid "Pending Sent Friend Requests"
+msgstr ""
+
+#: bin/output/bp-gdpr/includes/FriendshipExport.php:62
+#: includes/FriendshipExport.php:62
+msgid "Pending Received Friend Requests"
+msgstr ""
+
+#: bin/output/bp-gdpr/includes/FriendshipExport.php:68
+#: includes/FriendshipExport.php:68
+msgid "Friend Name"
+msgstr ""
+
+#: bin/output/bp-gdpr/includes/FriendshipExport.php:69
+#: includes/FriendshipExport.php:69
+msgid "Sent Created (GMT)"
+msgstr ""
+
+#: bin/output/bp-gdpr/includes/FriendshipExport.php:73
+#: bin/output/bp-gdpr/includes/NotificationExport.php:53
+#: bin/output/bp-gdpr/includes/SettingsExport.php:58
+#: includes/FriendshipExport.php:73 includes/NotificationExport.php:53
+#: includes/SettingsExport.php:58
+msgid "Yes"
+msgstr ""
+
+#: bin/output/bp-gdpr/includes/FriendshipExport.php:73
+#: bin/output/bp-gdpr/includes/NotificationExport.php:51
+#: bin/output/bp-gdpr/includes/SettingsExport.php:63
+#: includes/FriendshipExport.php:73 includes/NotificationExport.php:51
+#: includes/SettingsExport.php:63
+msgid "No"
+msgstr ""
+
+#: bin/output/bp-gdpr/includes/FriendshipExport.php:74
+#: includes/FriendshipExport.php:74
+msgid "Request Initiator"
+msgstr ""
+
+#: bin/output/bp-gdpr/includes/GroupExport.php:23
+#: bin/output/bp-gdpr/includes/GroupExport.php:43 includes/GroupExport.php:23
+#: includes/GroupExport.php:43
+msgid "Groups"
+msgstr ""
+
+#: bin/output/bp-gdpr/includes/GroupExport.php:69
+#: bin/output/bp-gdpr/includes/GroupExport.php:72
+#: bin/output/bp-gdpr/includes/XprofileExport.php:61
+#: bin/output/bp-gdpr/includes/XprofileExport.php:64
+#: bin/output/bp-gdpr/includes/XprofileExport.php:95
+#: includes/GroupExport.php:69 includes/GroupExport.php:72
+#: includes/XprofileExport.php:61 includes/XprofileExport.php:64
+#: includes/XprofileExport.php:95
+msgid "N/A"
+msgstr ""
+
+#: bin/output/bp-gdpr/includes/GroupExport.php:78
+#: bin/output/bp-gdpr/includes/GroupMembershipExport.php:75
+#: includes/GroupExport.php:78 includes/GroupMembershipExport.php:75
+msgid "Group Name"
+msgstr ""
+
+#: bin/output/bp-gdpr/includes/GroupExport.php:79 includes/GroupExport.php:79
+msgid "Group Description"
+msgstr ""
+
+#: bin/output/bp-gdpr/includes/GroupExport.php:80 includes/GroupExport.php:80
+msgid "Group slug"
+msgstr ""
+
+#: bin/output/bp-gdpr/includes/GroupExport.php:82 includes/GroupExport.php:82
+msgid "Group Status"
+msgstr ""
+
+#: bin/output/bp-gdpr/includes/GroupExport.php:83 includes/GroupExport.php:83
+msgid "Group Avatar"
+msgstr ""
+
+#: bin/output/bp-gdpr/includes/GroupExport.php:84 includes/GroupExport.php:84
+msgid "Group Cover Image"
+msgstr ""
+
+#: bin/output/bp-gdpr/includes/GroupExport.php:85
+#: bin/output/bp-gdpr/includes/GroupMembershipExport.php:77
+#: includes/GroupExport.php:85 includes/GroupMembershipExport.php:77
+msgid "Group URL"
+msgstr ""
+
+#: bin/output/bp-gdpr/includes/GroupExport.php:89 includes/GroupExport.php:89
+msgid "Total Members"
+msgstr ""
+
+#: bin/output/bp-gdpr/includes/GroupExport.php:90 includes/GroupExport.php:90
+msgid "Last Activity"
+msgstr ""
+
+#: bin/output/bp-gdpr/includes/GroupMembershipExport.php:26
+#: includes/GroupMembershipExport.php:26
+msgid "Group Memberships"
+msgstr ""
+
+#: bin/output/bp-gdpr/includes/GroupMembershipExport.php:48
+#: bin/output/bp-gdpr/includes/GroupMembershipExport.php:68
+#: includes/GroupMembershipExport.php:48 includes/GroupMembershipExport.php:68
+msgid "Group Membership"
+msgstr ""
+
+#: bin/output/bp-gdpr/includes/GroupMembershipExport.php:56
+#: includes/GroupMembershipExport.php:56
+msgid "Group Pending Requests"
+msgstr ""
+
+#: bin/output/bp-gdpr/includes/GroupMembershipExport.php:60
+#: includes/GroupMembershipExport.php:60
+msgid "Group Pending Received Invitation Requests"
+msgstr ""
+
+#: bin/output/bp-gdpr/includes/GroupMembershipExport.php:64
+#: includes/GroupMembershipExport.php:64
+msgid "Group Pending Sent Invitation Requests"
+msgstr ""
+
+#: bin/output/bp-gdpr/includes/GroupMembershipExport.php:76
+#: includes/GroupMembershipExport.php:76
+msgid "Sent Date (GMT)"
+msgstr ""
+
+#: bin/output/bp-gdpr/includes/GroupMembershipExport.php:82
+#: includes/GroupMembershipExport.php:82
+msgid "Sent by"
+msgstr ""
+
+#: bin/output/bp-gdpr/includes/GroupMembershipExport.php:87
+#: includes/GroupMembershipExport.php:87
+msgid "Sent to"
+msgstr ""
+
+#: bin/output/bp-gdpr/includes/GroupMembershipExport.php:91
+#: includes/GroupMembershipExport.php:91
+msgid "Group Comments"
+msgstr ""
+
+#: bin/output/bp-gdpr/includes/MessageExport.php:24
+#: includes/MessageExport.php:24
+msgid "Private Messages"
+msgstr ""
+
+#: bin/output/bp-gdpr/includes/MessageExport.php:43
+#: includes/MessageExport.php:43
+msgid "Message Threads & Replies"
+msgstr ""
+
+#: bin/output/bp-gdpr/includes/MessageExport.php:68
+#: includes/MessageExport.php:68
+msgid "Message Subject"
+msgstr ""
+
+#: bin/output/bp-gdpr/includes/MessageExport.php:69
+#: includes/MessageExport.php:69
+msgid "Message Content"
+msgstr ""
+
+#: bin/output/bp-gdpr/includes/MessageExport.php:71
+#: includes/MessageExport.php:71
+msgid "Message Recipients"
+msgstr ""
+
+#: bin/output/bp-gdpr/includes/MessageExport.php:72
+#: includes/MessageExport.php:72
+msgid "Thread URL"
+msgstr ""
+
+#: bin/output/bp-gdpr/includes/NotificationExport.php:23
+#: bin/output/bp-gdpr/includes/NotificationExport.php:42
+#: includes/NotificationExport.php:23 includes/NotificationExport.php:42
+msgid "Notifications"
+msgstr ""
+
+#: bin/output/bp-gdpr/includes/NotificationExport.php:57
+#: includes/NotificationExport.php:57
+msgid "Notification Action"
+msgstr ""
+
+#: bin/output/bp-gdpr/includes/NotificationExport.php:58
+#: includes/NotificationExport.php:58
+msgid "Notified Date (GMT)"
+msgstr ""
+
+#: bin/output/bp-gdpr/includes/NotificationExport.php:59
+#: includes/NotificationExport.php:59
+msgid "Mark as Read"
+msgstr ""
+
+#: bin/output/bp-gdpr/includes/SettingsExport.php:23
+#: bin/output/bp-gdpr/includes/SettingsExport.php:40
+#: includes/SettingsExport.php:23 includes/SettingsExport.php:40
+msgid "Settings"
+msgstr ""
+
+#: bin/output/bp-gdpr/includes/SettingsExport.php:60
+#: includes/SettingsExport.php:60
+msgid "Yes (Default)"
+msgstr ""
+
+#: bin/output/bp-gdpr/includes/SettingsExport.php:74
+#: includes/SettingsExport.php:74
+msgid "Notifications Settings"
+msgstr ""
+
+#: bin/output/bp-gdpr/includes/SettingsExport.php:114
+#: includes/SettingsExport.php:114
+msgid "A member sends you a friendship request"
+msgstr ""
+
+#: bin/output/bp-gdpr/includes/SettingsExport.php:115
+#: includes/SettingsExport.php:115
+msgid "A member accepts your friendship request"
+msgstr ""
+
+#: bin/output/bp-gdpr/includes/SettingsExport.php:118
+#: includes/SettingsExport.php:118
+msgid "A member invites you to join a group"
+msgstr ""
+
+#: bin/output/bp-gdpr/includes/SettingsExport.php:119
+#: includes/SettingsExport.php:119
+msgid "Group information is updated"
+msgstr ""
+
+#: bin/output/bp-gdpr/includes/SettingsExport.php:120
+#: includes/SettingsExport.php:120
+msgid "You are promoted to a group administrator or moderator"
+msgstr ""
+
+#: bin/output/bp-gdpr/includes/SettingsExport.php:121
+#: includes/SettingsExport.php:121
+msgid "A member requests to join a private group for which you are an admin"
+msgstr ""
+
+#: bin/output/bp-gdpr/includes/SettingsExport.php:122
+#: includes/SettingsExport.php:122
+msgid "Your request to join a group has been approved or denied"
+msgstr ""
+
+#: bin/output/bp-gdpr/includes/SettingsExport.php:125
+#: includes/SettingsExport.php:125
+msgid "A member mentions you in an update using \"@username\""
+msgstr ""
+
+#: bin/output/bp-gdpr/includes/SettingsExport.php:126
+#: includes/SettingsExport.php:126
+msgid "A member replies to an update or comment you've posted"
+msgstr ""
+
+#: bin/output/bp-gdpr/includes/SettingsExport.php:129
+#: includes/SettingsExport.php:129
+msgid "A member sends you a new message\t"
+msgstr ""
+
+#: bin/output/bp-gdpr/includes/UserSettings.php:53
+#: bin/output/bp-gdpr/includes/UserSettings.php:70 includes/UserSettings.php:53
+#: includes/UserSettings.php:70
+msgid "Export Data"
+msgstr ""
+
+#: bin/output/bp-gdpr/includes/UserSettings.php:81 includes/UserSettings.php:81
+msgid "Sorry something went wrong please try again."
+msgstr ""
+
+#: bin/output/bp-gdpr/includes/UserSettings.php:95 includes/UserSettings.php:95
+msgid "Unable to initiate confirmation request."
+msgstr ""
+
+#: bin/output/bp-gdpr/includes/UserSettings.php:101
+#: includes/UserSettings.php:101
+msgid "Confirmation request initiated successfully."
+msgstr ""
+
+#: bin/output/bp-gdpr/includes/XprofileExport.php:23
+#: includes/XprofileExport.php:23
+msgid "User Profile Information"
+msgstr ""
+
+#: bin/output/bp-gdpr/includes/XprofileExport.php:67
+#: includes/XprofileExport.php:67
+msgid "Avatar"
+msgstr ""
+
+#: bin/output/bp-gdpr/includes/XprofileExport.php:68
+#: includes/XprofileExport.php:68
+msgid "Cover Image"
+msgstr ""
+
+#: bin/output/bp-gdpr/includes/XprofileExport.php:72
+#: includes/XprofileExport.php:72
+msgid "User Profile - Avatar & Cover Photos"
+msgstr ""
